@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312661155026",
+    "project_id": "telecomvc-4d4ce",
+    "storage_bucket": "telecomvc-4d4ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312661155026:android:bebc5d389728aef3f2e10b",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6F0IeoVdJ6aAwOJ9v12qSofiFJRJCwv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312661155026:android:8d31f2e01780539df2e10b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6F0IeoVdJ6aAwOJ9v12qSofiFJRJCwv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
